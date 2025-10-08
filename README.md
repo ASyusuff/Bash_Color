@@ -4,7 +4,6 @@ Koleksi lengkap kode warna ANSI untuk terminal bash/shell scripting.
 
 ## 📋 Daftar Isi
 
-- [Instalasi](#instalasi)
 - [Penggunaan Dasar](#penggunaan-dasar)
 - [Warna Dasar](#warna-dasar)
 - [Warna Terang](#warna-terang)
@@ -15,9 +14,6 @@ Koleksi lengkap kode warna ANSI untuk terminal bash/shell scripting.
 - [Contoh Penggunaan](#contoh-penggunaan)
 - [Tips & Tricks](#tips--tricks)
 
-## 🚀 Instalasi
-
-Tidak perlu instalasi khusus. Cukup copy kode warna yang dibutuhkan ke script Anda.
 
 ## 📖 Penggunaan Dasar
 
